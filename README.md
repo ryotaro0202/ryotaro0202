@@ -3,7 +3,7 @@
   - 【contents of study】
   -HTML, CSS, Javascript, jquery
 - 💞️ 【I’m　hobby】
-- create of music, musical instrument　of guitar, bass, dram. 
+- write an lyric,compose, guitar, bass, dram. 
 - 📫 How to reach me ...
 
 <!---
