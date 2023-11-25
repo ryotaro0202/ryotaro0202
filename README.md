@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ryotaro0202
-- 👀 I’m studying programing, but it's very difficult, but I'm never.
-- - 🌱 I’m currently learning ...
+- 👀 I’m studying programing, but it's very difficult, but I'm never　give up.
+- - 【contents of study】
+  - HTML, CSS, Javascript, jquery
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
