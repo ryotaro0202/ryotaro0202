@@ -2,7 +2,8 @@
 - 👀 I’m studying programing, but it's very difficult, but I'm never　give up.
   - 【contents of study】
   -HTML, CSS, Javascript, jquery
-- 💞️ I’m looking to collaborate on ...
+- 💞️ 【I’m　hobby】
+- create of music, musical instrument　of guitar, bass, dram. 
 - 📫 How to reach me ...
 
 <!---
